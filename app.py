@@ -117,9 +117,9 @@ skill = st.selectbox(
     skills
 )
 
-# -----------------------------
+# --------------------------
 # OTHER INPUTS
-# -----------------------------
+# --------------------------
 
 experience = st.slider(
     "Experience (Years)",
