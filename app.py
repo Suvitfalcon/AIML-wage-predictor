@@ -142,7 +142,7 @@ cost_of_living = st.slider(
     100,
     50
 )
-# khbdcjbdcs
+
 # -----------------------------
 # PREDICT BUTTON
 # -----------------------------
