@@ -13,6 +13,7 @@ from sklearn.linear_model import LinearRegression
 df = pd.read_csv("labour_dataset.csv")
 
 # Keep original dataframe for dropdowns
+# kjnndckhsdc
 df_original = df.copy()
 
 # -----------------------------
