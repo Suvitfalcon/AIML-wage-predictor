@@ -49,6 +49,7 @@ scaler = StandardScaler()
 X[numeric_cols] = scaler.fit_transform(X[numeric_cols])
 
 # -----------------------------
+# dlljnc
 # TRAIN MODEL
 # -----------------------------
 
