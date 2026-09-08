@@ -64,7 +64,7 @@ model.fit(X_train, y_train)
 
 
 # STREAMLIT UI
-# -----------------------------
+
 
 st.set_page_config(
     page_title="Labour Wage Predictor",
