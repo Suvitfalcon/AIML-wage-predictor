@@ -48,9 +48,9 @@ numeric_cols = [
 scaler = StandardScaler()
 X[numeric_cols] = scaler.fit_transform(X[numeric_cols])
 
-# 
+# ------
 # TRAIN MODEL
-
+# ------
 
 X_train, X_test, y_train, y_test = train_test_split(
     X,
