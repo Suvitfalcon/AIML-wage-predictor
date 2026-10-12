@@ -159,7 +159,7 @@ if st.button("Predict Wage"):
         'demand_index': [demand_index],
         'cost_of_living': [cost_of_living]
     })
-
+# mm
     input_data[numeric_cols] = scaler.transform(
         input_data[numeric_cols]
     )
